@@ -1,6 +1,6 @@
 <h1> Hi there 👋 I'm Amina
 
-<h3> I'm at fullstack trainee at Bright Network Tech Academy
+<h2> I'm at fullstack trainee at Bright Network Tech Academy
 
 
 

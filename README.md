@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 my name is Amina
 
 <!--
 **Amina0056267/Amina0056267** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

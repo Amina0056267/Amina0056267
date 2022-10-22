@@ -1,4 +1,8 @@
-### Hi there 👋 my name is Amina
+### Hi there 👋 I'm Amina
+
+h2 I'm at fullstack trainee at Bright Network Tech Academy
+
+
 
 <!--
 **Amina0056267/Amina0056267** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
